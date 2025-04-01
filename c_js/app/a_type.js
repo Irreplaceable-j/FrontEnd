@@ -13,14 +13,15 @@ console.log('hello world!');
 
 // 변수 호이스팅
 // 아직 선언되지 않은 변수를 사용
+console.log(vStr);  // 2
+var vStr    // 1
+vStr = 'var';  // 3
 console.log(vStr);
-var vStr = 10;
-vStr = 'var';
 
 //console.log(lStr);
 let lStr = 'let';
 
-//console.log(cStr);
+// console.log(cStr);
 const cStr = 'const';
 // cStr = 'modify';
 
