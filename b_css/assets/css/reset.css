@@ -60,7 +60,7 @@ a{
   cursor:pointer;
 }
 /*레이아웃 작성을 위한 그림자 css*/
-div{
-  box-shadow: 0 0 0 1px lightgray inset;
-}
+/*div{*/
+/*  box-shadow: 0 0 0 1px lightgray inset;*/
+/*}*/
 

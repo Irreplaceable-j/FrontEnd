@@ -5,36 +5,84 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5c781d8-da75-49ac-8ae2-b1df4761e7a9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/d_front.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/l_grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/l_grid2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/l_grid3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/m_font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/r_materialize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/s_layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/qrcode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/svg-with-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/svg-with-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/v4-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/v4-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/v4-shims.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/v4-shims.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/v5-font-face.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/css/v5-font-face.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-v4compatibility.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fontawesome/webfonts/fa-v4compatibility.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/k_flex.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/k_flex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/k_flex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/k_flex2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/k_flex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/k_flex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/k_flex4.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/k_flex4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/qrcode.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/qrcode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/reset.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2v4b8XWKslWIxtGCVdVpRMYEVhf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Backend/d_front/b_css/assets/fontawesome",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +92,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Backend\d_front\b_css\assets\fontawesome" />
+      <recent name="C:\Backend\d_front\b_css\app" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,7 +114,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743407136174</updated>
-      <workItem from="1743407137160" duration="1290000" />
+      <workItem from="1743407137160" duration="1371000" />
+      <workItem from="1743429472079" duration="21000" />
+      <workItem from="1743465680482" duration="13637000" />
     </task>
     <servers />
   </component>
