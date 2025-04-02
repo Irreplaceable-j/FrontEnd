@@ -1,5 +1,6 @@
 // 자바스크립트의 에러는 모두 unchecked error
-// 커스텀 에러 만들기
+// 커스텀 에러 만들기 //
+
 class CommonError extends Error{
   constructor(message) {
     super(message);
