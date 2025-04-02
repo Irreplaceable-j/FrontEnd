@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+<h1>Module</h1>
+<script type="module">
+  // import 이름 form 모듈
+  // export default  // c : 별칭
+  import c from './assets/js/module/ecma.js';
+  c();
+
+  import {odd as o, even as e, jkm, counter} from './assets/js/module/ecma.js';
+  console.log(o);
+  console.log(e);
+  console.log(jkm);
+  console.log(counter);
+
+  counter();
+  counter();
+  counter();
+  counter();
+  counter();
+
+  import * as ecma from './assets/js/module/ecma.js';
+  console.dir(ecma);
+
+</script>
+
+</body>
+</html>
