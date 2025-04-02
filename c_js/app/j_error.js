@@ -20,9 +20,3 @@ try{
 }finally{
   console.log('finally');
 }
-
-
-
-
-
-
