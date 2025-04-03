@@ -3,12 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <title>Title</title>
-  <link href="../assets/css/reset.css" rel="stylesheet">
-  <link href="../assets/css/qrcode.css" rel="stylesheet">
-  <link href="../assets/css/grid.css" rel="stylesheet">
-  <link href="../assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
-  <link href="../assets/fontawesome/css/brands.css" rel="stylesheet" />
-  <link href="../assets/fontawesome/css/solid.css" rel="stylesheet" />
+  <link href="assets/css/reset.css" rel="stylesheet">
+  <link href="assets/css/qrcode.css" rel="stylesheet">
+  <link href="assets/css/grid.css" rel="stylesheet">
+  <link href="assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
+  <link href="assets/fontawesome/css/brands.css" rel="stylesheet" />
+  <link href="assets/fontawesome/css/solid.css" rel="stylesheet" />
+
+  <!--
+    defer : dom 객체가 모두 올라간 뒤 script 파일 실행
+    async : dom 객체 파싱과 script 파일 실행이 동시에 진행
+  -->
+  <script defer type="module" src="./assets/js/qrcode.js"></script>
 
   <!--
     미디어쿼리 : viewport 또는 단말기의 종류에 따라 다른 스타일을 적용
@@ -23,8 +29,8 @@
 
 </head>
 <body>
-
 <div class="header con-end">
+  <div class="weather" id="weather"></div>
   <div class="logo"><i class="fa-solid fa-qrcode"></i></div>
 </div>
 <div class="section con">
@@ -44,9 +50,13 @@
   </div>
 </div>
 <div class="footer con-start">
-  <div class="copyright">written by jkm</div>
+  <div class="copyright" id="locationName">written by jkm</div>
 </div>
 
+<!--<script>-->
+<!--  localStorage.setItem('test', 'localStorage test');-->
+<!--  sessionStorage.setItem('test', 'sessionStorage test');-->
+<!--</script>-->
 
 </body>
 </html>
